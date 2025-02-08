@@ -29,10 +29,9 @@ I have been interested in coding for over 12 years, ever since I started my unde
     
 # 👨‍💻 What am I working on?
 - Currently, I am:
-  - Machine Learning and Artificial Intelligence
-  - Data Mining
-  - LeetCode
-  - React Projects
+  - Studying Machine Learning and Artificial Intelligence
+  - LeetCoding
+  - Building React Projects
 
 # 📚 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,ts,nodejs,mongodb&perline=8)](https://skillicons.dev)<br>
